@@ -1,6 +1,10 @@
 # 📚Library Management System
 A comprehensive RESTful API built with Spring Boot for managing library operations including books, borrowers, and borrowing records with PostgreSQL database.
 
+## Deployed Backend
+The backend for this project is live and can be accessed at the following URL:
+https://library-management-api-r3bd.onrender.com
+
 ## 🚀 Features
 
 ### Core Features
@@ -44,7 +48,7 @@ A comprehensive RESTful API built with Spring Boot for managing library operatio
 
 1. **Clone the repository**
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Premnishok-Muhilan/library-management.git
 cd library-management
 ```
 
