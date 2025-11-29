@@ -1,5 +1,4 @@
-# 📚 Library Management System
-
+# 📚Library Management System
 A comprehensive RESTful API built with Spring Boot for managing library operations including books, borrowers, and borrowing records with PostgreSQL database.
 
 ## 🚀 Features
@@ -246,53 +245,11 @@ The application handles various exceptions:
 
 All exceptions return proper HTTP status codes and detailed error messages.
 
-## 🚀 Deployment
-
-### Deploy to AWS/Azure/GCP
-
-1. **Build the JAR**
-```bash
-mvn clean package
-```
-
-2. **Upload to cloud platform**
-3. **Set environment variables**
-4. **Configure database connection**
-5. **Run the application**
-
-### Deploy to Heroku
-
-1. **Create Heroku app**
-```bash
-heroku create library-management-app
-```
-
-2. **Add PostgreSQL addon**
-```bash
-heroku addons:create heroku-postgresql:hobby-dev
-```
-
-3. **Deploy**
-```bash
-git push heroku main
-```
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
 ## 📄 License
 
 This project is open source and available under the MIT License.
 
-## 📧 Contact
-
-Your Name - [LinkedIn Profile]
-Project Link: [GitHub Repository]
 
 ## 🎯 Future Enhancements
 
@@ -306,5 +263,3 @@ Project Link: [GitHub Repository]
 - [ ] Book recommendations based on borrowing history
 
 ---
-
-**Built with ❤️ using Spring Boot**
